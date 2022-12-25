@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Site-Me-React/static/css/main.c996af38.css",
+    "main.js": "/Site-Me-React/static/js/main.c2933a9e.js",
+    "static/media/footer.jpg": "/Site-Me-React/static/media/footer.c74bdb193e064394aa5c.jpg",
+    "static/media/header-banner.jpg": "/Site-Me-React/static/media/header-banner.1a8c58441daedced6444.jpg",
+    "static/media/DidactGothic-Regular.ttf": "/Site-Me-React/static/media/DidactGothic-Regular.37c8a8ed522192cd4de5.ttf",
+    "static/media/Kanit-SemiBold.ttf": "/Site-Me-React/static/media/Kanit-SemiBold.cf86a473ecf932fb0053.ttf",
+    "static/media/Kanit-Regular.ttf": "/Site-Me-React/static/media/Kanit-Regular.f3bae13d78ced30b6ea3.ttf",
+    "static/media/Kanit-Thin.ttf": "/Site-Me-React/static/media/Kanit-Thin.2e32ea46402cf7c9bcb4.ttf",
+    "static/media/BreeSerif-Regular.ttf": "/Site-Me-React/static/media/BreeSerif-Regular.751eb941c0e1335ad247.ttf",
+    "static/media/logo.svg": "/Site-Me-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Site-Me-React/index.html",
+    "main.c996af38.css.map": "/Site-Me-React/static/css/main.c996af38.css.map",
+    "main.c2933a9e.js.map": "/Site-Me-React/static/js/main.c2933a9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c996af38.css",
+    "static/js/main.c2933a9e.js"
+  ]
+}
